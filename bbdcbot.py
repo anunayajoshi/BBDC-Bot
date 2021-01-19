@@ -31,11 +31,11 @@ time.sleep(2)
 browser.get("https:/info.bbdc.sg/members-login/")
 
 
-browser.find_element_by_id('txtNRIC').send_keys("T0073496E")
+browser.find_element_by_id('txtNRIC').send_keys("*censored")
 
 time.sleep(2)
 
-browser.find_element_by_id('txtPassword').send_keys("208420")
+browser.find_element_by_id('txtPassword').send_keys("*censored*")
 
 time.sleep(2)
 
