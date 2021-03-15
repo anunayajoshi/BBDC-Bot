@@ -1,6 +1,6 @@
 # BBDC-Bot
-Scrape booking website using Selenium and get updates of free slots through Telegram Bot
+Scrapes driving centre's booking website using Selenium every 5 minutes to get updates on available slots for lessons. Once slot is found which is before a certain chosen date, sends a message to me through Telegram Bot.
 
-Capable of bypassing recaptcha , but they recently removed it. Code to bypass still intact. 
+Capable of bypassing recaptcha system.
 
-For personal use only lol.
+
